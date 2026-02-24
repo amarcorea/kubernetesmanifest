@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: amarcorea/appdeployment:v0-alpha
+      - image: amarcorea/appdeployment:v1.0
         name: flaskdemo
         resources: {}
 status: {}
